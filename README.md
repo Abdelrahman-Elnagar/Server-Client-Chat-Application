@@ -63,3 +63,6 @@ This project is a simple TCP server-client chat application written in Java. It 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Images while working 
+![photo_2024-05-19_10-51-59](https://github.com/Abdelrahman-Elnagar/Server-Client-Chat-Application/assets/126884720/b7ccb38f-630f-403b-8d14-0f093cb6e125)
+![photo_2024-05-19_10-51-53](https://github.com/Abdelrahman-Elnagar/Server-Client-Chat-Application/assets/126884720/6957ddf1-3057-4af9-a6e7-8aeaeb588f28)
